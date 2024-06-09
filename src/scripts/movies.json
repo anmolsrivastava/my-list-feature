@@ -1,0 +1,182 @@
+[
+  {
+    "title": "The Silent Forest",
+    "description": "A thrilling adventure in the depths of an uncharted forest.",
+    "genres": ["Fantasy"],
+    "releaseDate": "2023-02-15T00:00:00.000Z",
+    "director": "Jane Doe",
+    "actors": ["John Smith", "Emily Johnson"],
+    "id": "6663f5e05fff718e47c93ecb"
+  },
+  {
+    "title": "Love Beyond Time",
+    "description": "A timeless romance that transcends centuries.",
+    "genres": ["Romance", "Fantasy"],
+    "releaseDate": "2021-07-30T00:00:00.000Z",
+    "director": "Robert Brown",
+    "actors": ["Emma Stone", "Ryan Gosling"],
+    "id": "6663f5e05fff718e47c93ecd"
+  },
+  {
+    "title": "Mystery at Midnight",
+    "description": "A gripping mystery that unravels in the dead of night.",
+    "genres": ["Horror"],
+    "releaseDate": "2022-10-31T00:00:00.000Z",
+    "director": "Alice Johnson",
+    "actors": ["Michael Fassbender", "Jessica Chastain"],
+    "id": "6663f5e05fff718e47c93ecf"
+  },
+  {
+    "title": "Galactic Wars",
+    "description": "An epic space opera set in a distant galaxy.",
+    "genres": ["Sci-Fi", "Action"],
+    "releaseDate": "2024-05-25T00:00:00.000Z",
+    "director": "George Lucas",
+    "actors": ["Chris Pratt", "Zoe Saldana"],
+    "id": "6663f5e05fff718e47c93ed1"
+  },
+  {
+    "title": "Haunted Mansion",
+    "description": "A horror film about a mansion with a dark past.",
+    "genres": ["Horror", "Action"],
+    "releaseDate": "2020-10-01T00:00:00.000Z",
+    "director": "Tim Burton",
+    "actors": ["Johnny Depp", "Helena Bonham Carter"],
+    "id": "6663f5e05fff718e47c93ed3"
+  },
+  {
+    "title": "The Last Samurai",
+    "description": "A drama about the final days of the samurai in Japan.",
+    "genres": ["Drama", "Action"],
+    "releaseDate": "2003-12-05T00:00:00.000Z",
+    "director": "Edward Zwick",
+    "actors": ["Tom Cruise", "Ken Watanabe"],
+    "id": "6663f5e05fff718e47c93ed5"
+  },
+  {
+    "title": "Journey to Atlantis",
+    "description": "An underwater adventure to find the lost city of Atlantis.",
+    "genres": ["Fantasy"],
+    "releaseDate": "2022-08-12T00:00:00.000Z",
+    "director": "James Cameron",
+    "actors": ["Sam Worthington", "Sigourney Weaver"],
+    "id": "6663f5e05fff718e47c93ed7"
+  },
+  {
+    "title": "Comedy Nights",
+    "description": "A hilarious take on the everyday lives of a group of friends.",
+    "genres": ["Comedy", "Drama"],
+    "releaseDate": "2021-11-19T00:00:00.000Z",
+    "director": "Judd Apatow",
+    "actors": ["Seth Rogen", "Amy Schumer"],
+    "id": "6663f5e05fff718e47c93ed9"
+  },
+  {
+    "title": "Cyber City",
+    "description": "A sci-fi thriller set in a dystopian future.",
+    "genres": ["Sci-Fi"],
+    "releaseDate": "2023-03-22T00:00:00.000Z",
+    "director": "Denis Villeneuve",
+    "actors": ["Ryan Reynolds", "Scarlett Johansson"],
+    "id": "6663f5e05fff718e47c93edb"
+  },
+  {
+    "title": "Ancient Secrets",
+    "description": "A mystery that uncovers ancient secrets buried for millennia.",
+    "genres": ["Action", "Sci-Fi"],
+    "releaseDate": "2020-06-17T00:00:00.000Z",
+    "director": "Steven Spielberg",
+    "actors": ["Harrison Ford", "Karen Allen"],
+    "id": "6663f5e05fff718e47c93edd"
+  },
+  {
+    "title": "Eternal Love",
+    "description": "A romance that spans across different lifetimes.",
+    "genres": ["Romance", "Drama"],
+    "releaseDate": "2019-02-14T00:00:00.000Z",
+    "director": "Baz Luhrmann",
+    "actors": ["Leonardo DiCaprio", "Carey Mulligan"],
+    "id": "6663f5e05fff718e47c93edf"
+  },
+  {
+    "title": "Shadow of the Vampire",
+    "description": "A horror story about a vampire lurking in the shadows.",
+    "genres": ["Horror", "Sci-Fi"],
+    "releaseDate": "2022-10-31T00:00:00.000Z",
+    "director": "Guillermo del Toro",
+    "actors": ["Tom Hiddleston", "Mia Wasikowska"],
+    "id": "6663f5e05fff718e47c93ee1"
+  },
+  {
+    "title": "Hero's Quest",
+    "description": "An action-packed journey of a hero on a quest to save the world.",
+    "genres": ["Action", "Fantasy"],
+    "releaseDate": "2023-07-20T00:00:00.000Z",
+    "director": "Peter Jackson",
+    "actors": ["Orlando Bloom", "Cate Blanchett"],
+    "id": "6663f5e05fff718e47c93ee3"
+  },
+  {
+    "title": "The Great Escape",
+    "description": "A thrilling story about a group of prisoners planning their escape.",
+    "genres": ["Action"],
+    "releaseDate": "2021-09-10T00:00:00.000Z",
+    "director": "Christopher Nolan",
+    "actors": ["Christian Bale", "Anne Hathaway"],
+    "id": "6663f5e05fff718e47c93ee5"
+  },
+  {
+    "title": "Heart of the Sea",
+    "description": "A romantic drama set on a remote island.",
+    "genres": ["Romance", "Drama"],
+    "releaseDate": "2022-04-14T00:00:00.000Z",
+    "director": "Ang Lee",
+    "actors": ["Tom Hardy", "Rachel McAdams"],
+    "id": "6663f5e15fff718e47c93ee7"
+  },
+  {
+    "title": "Dark Dimensions",
+    "description": "A sci-fi thriller exploring parallel dimensions.",
+    "genres": ["Sci-Fi"],
+    "releaseDate": "2024-01-05T00:00:00.000Z",
+    "director": "Christopher Nolan",
+    "actors": ["Cillian Murphy", "Ellen Page"],
+    "id": "6663f5e15fff718e47c93ee9"
+  },
+  {
+    "title": "The Comedian",
+    "description": "A comedy about the ups and downs of a stand-up comedian.",
+    "genres": ["Comedy", "Drama"],
+    "releaseDate": "2020-12-25T00:00:00.000Z",
+    "director": "Todd Phillips",
+    "actors": ["Joaquin Phoenix", "Zazie Beetz"],
+    "id": "6663f5e15fff718e47c93eeb"
+  },
+  {
+    "title": "Frozen Kingdom",
+    "description": "A fantasy adventure in a kingdom trapped in eternal winter.",
+    "genres": ["Fantasy", "Sci-Fi"],
+    "releaseDate": "2019-11-27T00:00:00.000Z",
+    "director": "Chris Buck",
+    "actors": ["Idina Menzel", "Kristen Bell"],
+    "id": "6663f5e15fff718e47c93eed"
+  },
+  {
+    "title": "Alien Invasion",
+    "description": "A sci-fi action movie about an alien invasion on Earth.",
+    "genres": ["Sci-Fi", "Action"],
+    "releaseDate": "2021-05-21T00:00:00.000Z",
+    "director": "Roland Emmerich",
+    "actors": ["Will Smith", "Jeff Goldblum"],
+    "id": "6663f5e15fff718e47c93eef"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "description": "A mystery about a murder on a famous train.",
+    "genres": ["Horror", "Drama"],
+    "releaseDate": "2017-11-10T00:00:00.000Z",
+    "director": "Kenneth Branagh",
+    "actors": ["Kenneth Branagh", "Daisy Ridley"],
+    "id": "6663f5e15fff718e47c93ef1"
+  }
+]

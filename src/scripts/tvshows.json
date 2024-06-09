@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Galactic Adventures",
+    "description": "A space exploration series following a crew of astronauts on a mission to distant planets.",
+    "genres": ["Sci-Fi", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-01-01T00:00:00.000Z",
+        "director": "Jane Doe",
+        "actors": ["John Smith", "Emily Davis"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-01-08T00:00:00.000Z",
+        "director": "Jane Doe",
+        "actors": ["John Smith", "Emily Davis"]
+      }
+    ],
+    "id": "6663faceaf6260095fda25cc"
+  },
+  {
+    "title": "Laugh Out Loud",
+    "description": "A comedy series about a group of friends navigating life and love.",
+    "genres": ["Comedy", "Romance"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-02-01T00:00:00.000Z",
+        "director": "John Roe",
+        "actors": ["Mary Jane", "Peter Parker"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-02-08T00:00:00.000Z",
+        "director": "John Roe",
+        "actors": ["Mary Jane", "Peter Parker"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25ce"
+  },
+  {
+    "title": "Mystic Realms",
+    "description": "A fantasy series set in a magical world filled with mythical creatures and epic battles.",
+    "genres": ["Fantasy", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-03-01T00:00:00.000Z",
+        "director": "Alex Smith",
+        "actors": ["Alice Johnson", "Bob Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-03-08T00:00:00.000Z",
+        "director": "Alex Smith",
+        "actors": ["Alice Johnson", "Bob Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25d0"
+  },
+  {
+    "title": "Haunted House",
+    "description": "A horror series following a family that moves into a house haunted by vengeful spirits.",
+    "genres": ["Horror", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-04-01T00:00:00.000Z",
+        "director": "Chris Black",
+        "actors": ["Sarah White", "Tom Green"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-04-08T00:00:00.000Z",
+        "director": "Chris Black",
+        "actors": ["Sarah White", "Tom Green"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25d2"
+  },
+  {
+    "title": "Love Chronicles",
+    "description": "A romance series that follows various love stories across different eras.",
+    "genres": ["Romance", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-05-01T00:00:00.000Z",
+        "director": "Emma Blue",
+        "actors": ["Henry Gold", "Laura Black"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-05-08T00:00:00.000Z",
+        "director": "Emma Blue",
+        "actors": ["Henry Gold", "Laura Black"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25d4"
+  },
+  {
+    "title": "Detective Mysteries",
+    "description": "A crime drama series about a brilliant detective solving complex cases.",
+    "genres": ["Drama", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-06-01T00:00:00.000Z",
+        "director": "Diana King",
+        "actors": ["Sam Lee", "Nina Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-06-08T00:00:00.000Z",
+        "director": "Diana King",
+        "actors": ["Sam Lee", "Nina Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25d6"
+  },
+  {
+    "title": "Future World",
+    "description": "A sci-fi series exploring life in a technologically advanced future society.",
+    "genres": ["Sci-Fi", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-07-01T00:00:00.000Z",
+        "director": "Fred Clark",
+        "actors": ["James Kim", "Anna Green"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-07-08T00:00:00.000Z",
+        "director": "Fred Clark",
+        "actors": ["James Kim", "Anna Green"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25d8"
+  },
+  {
+    "title": "Campus Life",
+    "description": "A comedy series about the lives of college students and their misadventures.",
+    "genres": ["Comedy", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-08-01T00:00:00.000Z",
+        "director": "George Hill",
+        "actors": ["Mark Brown", "Sophia Green"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-08-08T00:00:00.000Z",
+        "director": "George Hill",
+        "actors": ["Mark Brown", "Sophia Green"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25da"
+  },
+  {
+    "title": "Warriors of Legend",
+    "description": "A fantasy series set in a mythical world where heroes fight against dark forces.",
+    "genres": ["Fantasy", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-09-01T00:00:00.000Z",
+        "director": "Hannah Scott",
+        "actors": ["Liam Black", "Eva White"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-09-08T00:00:00.000Z",
+        "director": "Hannah Scott",
+        "actors": ["Liam Black", "Eva White"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25dc"
+  },
+  {
+    "title": "City Under Siege",
+    "description": "An action series about a city overrun by criminals and the heroes who fight to take it back.",
+    "genres": ["Action", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-10-01T00:00:00.000Z",
+        "director": "Ian White",
+        "actors": ["Jack Blue", "Emma Green"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-10-08T00:00:00.000Z",
+        "director": "Ian White",
+        "actors": ["Jack Blue", "Emma Green"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25de"
+  },
+  {
+    "title": "Space Rangers",
+    "description": "A sci-fi series about a group of intergalactic rangers keeping peace in the galaxy.",
+    "genres": ["Sci-Fi", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-11-01T00:00:00.000Z",
+        "director": "Karen Brown",
+        "actors": ["David Lee", "Olivia Green"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-11-08T00:00:00.000Z",
+        "director": "Karen Brown",
+        "actors": ["David Lee", "Olivia Green"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25e0"
+  },
+  {
+    "title": "Haunted Forest",
+    "description": "A horror series about a cursed forest that no one dares to enter.",
+    "genres": ["Horror", "Fantasy"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2024-12-01T00:00:00.000Z",
+        "director": "Larry Green",
+        "actors": ["Chris Brown", "Mia White"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2024-12-08T00:00:00.000Z",
+        "director": "Larry Green",
+        "actors": ["Chris Brown", "Mia White"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25e2"
+  },
+  {
+    "title": "Romantic Destinies",
+    "description": "A romance series exploring the intertwining fates of different couples.",
+    "genres": ["Romance", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-01-01T00:00:00.000Z",
+        "director": "Zoe Black",
+        "actors": ["Jake Green", "Lily Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-01-08T00:00:00.000Z",
+        "director": "Zoe Black",
+        "actors": ["Jake Green", "Lily Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25e4"
+  },
+  {
+    "title": "Dark Secrets",
+    "description": "A drama series uncovering the hidden secrets of a seemingly perfect town.",
+    "genres": ["Drama", "Horror"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-02-01T00:00:00.000Z",
+        "director": "Nick White",
+        "actors": ["Sam Green", "Nina Black"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-02-08T00:00:00.000Z",
+        "director": "Nick White",
+        "actors": ["Sam Green", "Nina Black"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25e6"
+  },
+  {
+    "title": "Alien Invasion",
+    "description": "A sci-fi series about humanity's fight against an alien invasion.",
+    "genres": ["Sci-Fi", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-03-01T00:00:00.000Z",
+        "director": "Olivia White",
+        "actors": ["Max Green", "Sophia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-03-08T00:00:00.000Z",
+        "director": "Olivia White",
+        "actors": ["Max Green", "Sophia Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25e8"
+  },
+  {
+    "title": "Comic Relief",
+    "description": "A comedy series that showcases hilarious sketches and parodies.",
+    "genres": ["Comedy"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-04-01T00:00:00.000Z",
+        "director": "Paul White",
+        "actors": ["Liam Green", "Ava Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-04-08T00:00:00.000Z",
+        "director": "Paul White",
+        "actors": ["Liam Green", "Ava Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25ea"
+  },
+  {
+    "title": "Epic Quests",
+    "description": "A fantasy series following a band of adventurers on their epic quests.",
+    "genres": ["Fantasy", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-05-01T00:00:00.000Z",
+        "director": "Quinn White",
+        "actors": ["Zara Green", "Ethan Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-05-08T00:00:00.000Z",
+        "director": "Quinn White",
+        "actors": ["Zara Green", "Ethan Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25ec"
+  },
+  {
+    "title": "Tech Pioneers",
+    "description": "A drama series about the lives and challenges of tech industry pioneers.",
+    "genres": ["Drama", "Sci-Fi"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-06-01T00:00:00.000Z",
+        "director": "Ryan White",
+        "actors": ["Aiden Green", "Chloe Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-06-08T00:00:00.000Z",
+        "director": "Ryan White",
+        "actors": ["Aiden Green", "Chloe Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25ee"
+  },
+  {
+    "title": "Vampire Diaries",
+    "description": "A horror series about a vampire navigating life among humans.",
+    "genres": ["Horror", "Romance"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-07-01T00:00:00.000Z",
+        "director": "Sara White",
+        "actors": ["Tyler Green", "Eva Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-07-08T00:00:00.000Z",
+        "director": "Sara White",
+        "actors": ["Tyler Green", "Eva Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25f0"
+  },
+  {
+    "title": "Love and Laughter",
+    "description": "A romantic comedy series about the funny side of relationships.",
+    "genres": ["Comedy", "Romance"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-08-01T00:00:00.000Z",
+        "director": "Tom White",
+        "actors": ["David Green", "Mia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-08-08T00:00:00.000Z",
+        "director": "Tom White",
+        "actors": ["David Green", "Mia Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25f2"
+  },
+  {
+    "title": "Ghost Whisperers",
+    "description": "A horror series about people who can communicate with ghosts and help them move on.",
+    "genres": ["Horror", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-09-01T00:00:00.000Z",
+        "director": "Uma White",
+        "actors": ["Liam Green", "Nina Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-09-08T00:00:00.000Z",
+        "director": "Uma White",
+        "actors": ["Liam Green", "Nina Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25f4"
+  },
+  {
+    "title": "Cyber City",
+    "description": "A sci-fi series set in a cyberpunk city filled with crime and high-tech wonders.",
+    "genres": ["Sci-Fi", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-10-01T00:00:00.000Z",
+        "director": "Vince White",
+        "actors": ["Chris Green", "Ella Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-10-08T00:00:00.000Z",
+        "director": "Vince White",
+        "actors": ["Chris Green", "Ella Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25f6"
+  },
+  {
+    "title": "Historical Love",
+    "description": "A romance series depicting love stories set in different historical periods.",
+    "genres": ["Romance", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-11-01T00:00:00.000Z",
+        "director": "Will White",
+        "actors": ["Adam Green", "Sophie Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-11-08T00:00:00.000Z",
+        "director": "Will White",
+        "actors": ["Adam Green", "Sophie Brown"]
+      }
+    ],
+    "id": "6663facfaf6260095fda25f8"
+  },
+  {
+    "title": "Hidden Realms",
+    "description": "A fantasy series exploring hidden magical realms and their inhabitants.",
+    "genres": ["Fantasy", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2025-12-01T00:00:00.000Z",
+        "director": "Xander White",
+        "actors": ["Oliver Green", "Ava Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2025-12-08T00:00:00.000Z",
+        "director": "Xander White",
+        "actors": ["Oliver Green", "Ava Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda25fa"
+  },
+  {
+    "title": "Secret Agents",
+    "description": "An action series about elite secret agents working to prevent global threats.",
+    "genres": ["Action", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-01-01T00:00:00.000Z",
+        "director": "Yara White",
+        "actors": ["Ethan Green", "Mia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-01-08T00:00:00.000Z",
+        "director": "Yara White",
+        "actors": ["Ethan Green", "Mia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda25fc"
+  },
+  {
+    "title": "Galactic Frontier",
+    "description": "A sci-fi series about the exploration of the outer reaches of space.",
+    "genres": ["Sci-Fi", "Fantasy"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-02-01T00:00:00.000Z",
+        "director": "Zane White",
+        "actors": ["Jack Green", "Emma Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-02-08T00:00:00.000Z",
+        "director": "Zane White",
+        "actors": ["Jack Green", "Emma Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda25fe"
+  },
+  {
+    "title": "Jungle Survival",
+    "description": "An action series about a group of people trying to survive in a dangerous jungle.",
+    "genres": ["Action", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-03-01T00:00:00.000Z",
+        "director": "Adam White",
+        "actors": ["Leo Green", "Sophia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-03-08T00:00:00.000Z",
+        "director": "Adam White",
+        "actors": ["Leo Green", "Sophia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2600"
+  },
+  {
+    "title": "Lost Kingdom",
+    "description": "A fantasy series about a hidden kingdom lost to time and its rediscovery.",
+    "genres": ["Fantasy", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-04-01T00:00:00.000Z",
+        "director": "Bella White",
+        "actors": ["Ryan Green", "Chloe Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-04-08T00:00:00.000Z",
+        "director": "Bella White",
+        "actors": ["Ryan Green", "Chloe Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2602"
+  },
+  {
+    "title": "Eternal Love",
+    "description": "A romance series about love that transcends time and space.",
+    "genres": ["Romance", "Sci-Fi"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-05-01T00:00:00.000Z",
+        "director": "Cameron White",
+        "actors": ["Aiden Green", "Eva Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-05-08T00:00:00.000Z",
+        "director": "Cameron White",
+        "actors": ["Aiden Green", "Eva Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2604"
+  },
+  {
+    "title": "Supernatural Forces",
+    "description": "A horror series about a group of people with supernatural abilities.",
+    "genres": ["Horror", "Fantasy"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-06-01T00:00:00.000Z",
+        "director": "Dana White",
+        "actors": ["Ethan Green", "Mia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-06-08T00:00:00.000Z",
+        "director": "Dana White",
+        "actors": ["Ethan Green", "Mia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2606"
+  },
+  {
+    "title": "Spy Games",
+    "description": "An action series about international spies and their thrilling missions.",
+    "genres": ["Action", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-07-01T00:00:00.000Z",
+        "director": "Ella White",
+        "actors": ["Jack Green", "Sophie Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-07-08T00:00:00.000Z",
+        "director": "Ella White",
+        "actors": ["Jack Green", "Sophie Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2608"
+  },
+  {
+    "title": "Cosmic Odyssey",
+    "description": "A sci-fi series about a crew exploring the mysteries of the universe.",
+    "genres": ["Sci-Fi", "Fantasy"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-08-01T00:00:00.000Z",
+        "director": "Finn White",
+        "actors": ["Liam Green", "Emma Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-08-08T00:00:00.000Z",
+        "director": "Finn White",
+        "actors": ["Liam Green", "Emma Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda260a"
+  },
+  {
+    "title": "Island Escape",
+    "description": "An action series about a group of people stranded on a mysterious island.",
+    "genres": ["Action", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-09-01T00:00:00.000Z",
+        "director": "Grace White",
+        "actors": ["David Green", "Mia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-09-08T00:00:00.000Z",
+        "director": "Grace White",
+        "actors": ["David Green", "Mia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda260c"
+  },
+  {
+    "title": "Time Travelers",
+    "description": "A sci-fi series about a group of time travelers exploring different eras.",
+    "genres": ["Sci-Fi", "Fantasy"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-10-01T00:00:00.000Z",
+        "director": "Harry White",
+        "actors": ["Liam Green", "Sophia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-10-08T00:00:00.000Z",
+        "director": "Harry White",
+        "actors": ["Liam Green", "Sophia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda260e"
+  },
+  {
+    "title": "Mystery Mansion",
+    "description": "A horror series about a mansion filled with dark secrets and haunted by spirits.",
+    "genres": ["Horror", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-11-01T00:00:00.000Z",
+        "director": "Ivy White",
+        "actors": ["Oliver Green", "Ava Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-11-08T00:00:00.000Z",
+        "director": "Ivy White",
+        "actors": ["Oliver Green", "Ava Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2610"
+  },
+  {
+    "title": "Enchanted Tales",
+    "description": "A fantasy series telling magical stories from different mythical lands.",
+    "genres": ["Fantasy", "Romance"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2026-12-01T00:00:00.000Z",
+        "director": "Jack White",
+        "actors": ["Liam Green", "Sophia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2026-12-08T00:00:00.000Z",
+        "director": "Jack White",
+        "actors": ["Liam Green", "Sophia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2612"
+  },
+  {
+    "title": "Medical Miracles",
+    "description": "A drama series about doctors working on groundbreaking medical cases.",
+    "genres": ["Drama", "Sci-Fi"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2027-01-01T00:00:00.000Z",
+        "director": "Katie White",
+        "actors": ["David Green", "Mia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2027-01-08T00:00:00.000Z",
+        "director": "Katie White",
+        "actors": ["David Green", "Mia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2614"
+  },
+  {
+    "title": "Warrior Queens",
+    "description": "A fantasy series about powerful queens leading their kingdoms to victory.",
+    "genres": ["Fantasy", "Action"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2027-02-01T00:00:00.000Z",
+        "director": "Liam White",
+        "actors": ["Jack Green", "Emma Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2027-02-08T00:00:00.000Z",
+        "director": "Liam White",
+        "actors": ["Jack Green", "Emma Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2616"
+  },
+  {
+    "title": "Life on Mars",
+    "description": "A sci-fi series about the first human colony on Mars and their challenges.",
+    "genres": ["Sci-Fi", "Drama"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2027-03-01T00:00:00.000Z",
+        "director": "Mia White",
+        "actors": ["Liam Green", "Sophia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2027-03-08T00:00:00.000Z",
+        "director": "Mia White",
+        "actors": ["Liam Green", "Sophia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda2618"
+  },
+  {
+    "title": "Royal Intrigue",
+    "description": "A drama series about the political and romantic intrigues of a royal family.",
+    "genres": ["Drama", "Romance"],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "releaseDate": "2027-04-01T00:00:00.000Z",
+        "director": "Noah White",
+        "actors": ["David Green", "Mia Brown"]
+      },
+      {
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "releaseDate": "2027-04-08T00:00:00.000Z",
+        "director": "Noah White",
+        "actors": ["David Green", "Mia Brown"]
+      }
+    ],
+    "id": "6663fad0af6260095fda261a"
+  }
+]

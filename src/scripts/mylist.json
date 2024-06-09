@@ -1,0 +1,164 @@
+[
+  {
+    "userId": "6664869e3fd94b857d2a171b",
+    "items": [
+      {
+        "itemId": "6663f5e05fff718e47c93edd",
+        "itemType": "Movie",
+        "_id": "666525a746caaad92f11d4ee"
+      },
+      {
+        "itemId": "6663f5e05fff718e47c93ed5",
+        "itemType": "Movie",
+        "_id": "66652e58dfa3bf419eb813e1"
+      },
+      {
+        "itemId": "6663f5e05fff718e47c93ee3",
+        "itemType": "Movie",
+        "_id": "666531ec7afe64aabf343f64"
+      },
+      {
+        "itemId": "6663f5e05fff718e47c93ee5",
+        "itemType": "Movie",
+        "_id": "666531f77afe64aabf343f6d"
+      },
+      {
+        "itemId": "6663f5e15fff718e47c93eef",
+        "itemType": "Movie",
+        "_id": "666532047afe64aabf343f77"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25d4",
+        "itemType": "TVShow",
+        "_id": "666532277afe64aabf343f84"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25dc",
+        "itemType": "TVShow",
+        "_id": "666532377afe64aabf343f90"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25de",
+        "itemType": "TVShow",
+        "_id": "666532407afe64aabf343f9d"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25f6",
+        "itemType": "TVShow",
+        "_id": "6665324e7afe64aabf343fab"
+      },
+      {
+        "itemId": "6663fad0af6260095fda25fc",
+        "itemType": "TVShow",
+        "_id": "6665325c7afe64aabf343fba"
+      },
+      {
+        "itemId": "6663fad0af6260095fda2600",
+        "itemType": "TVShow",
+        "_id": "666532677afe64aabf343fca"
+      },
+      {
+        "itemId": "6663fad0af6260095fda2608",
+        "itemType": "TVShow",
+        "_id": "666532747afe64aabf343fdb"
+      },
+      {
+        "itemId": "6663f5e05fff718e47c93edb",
+        "itemType": "Movie",
+        "_id": "666532987afe64aabf343fed"
+      },
+      {
+        "itemId": "6663f5e05fff718e47c93ee1",
+        "itemType": "Movie",
+        "_id": "666532ac7afe64aabf344010"
+      },
+      {
+        "itemId": "6663f5e15fff718e47c93ee9",
+        "itemType": "Movie",
+        "_id": "666532b87afe64aabf344024"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25ee",
+        "itemType": "TVShow",
+        "_id": "666532ee7afe64aabf34403b"
+      },
+      {
+        "itemId": "6663fad0af6260095fda2604",
+        "itemType": "TVShow",
+        "_id": "666533097afe64aabf344064"
+      },
+      {
+        "itemId": "6663fad0af6260095fda260e",
+        "itemType": "TVShow",
+        "_id": "6665331e7afe64aabf34407b"
+      }
+    ],
+    "id": "666525a746caaad92f11d4ed"
+  },
+  {
+    "userId": "6664869e3fd94b857d2a171d",
+    "items": [
+      {
+        "itemId": "6663fad0af6260095fda260e",
+        "itemType": "TVShow",
+        "_id": "666533637afe64aabf344082"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25ee",
+        "itemType": "TVShow",
+        "_id": "6665339c7afe64aabf344089"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25e8",
+        "itemType": "TVShow",
+        "_id": "666533a77afe64aabf344091"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25e0",
+        "itemType": "TVShow",
+        "_id": "666533b27afe64aabf34409a"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25d8",
+        "itemType": "TVShow",
+        "_id": "666533be7afe64aabf3440a4"
+      },
+      {
+        "itemId": "6663f5e05fff718e47c93ed9",
+        "itemType": "Movie",
+        "_id": "666533f27afe64aabf3440b1"
+      },
+      {
+        "itemId": "6663f5e15fff718e47c93eeb",
+        "itemType": "Movie",
+        "_id": "666534007afe64aabf3440bd"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25ea",
+        "itemType": "TVShow",
+        "_id": "666534147afe64aabf3440ca"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25f2",
+        "itemType": "TVShow",
+        "_id": "666534227afe64aabf3440d8"
+      },
+      {
+        "itemId": "6663facfaf6260095fda25e4",
+        "itemType": "TVShow",
+        "_id": "666534397afe64aabf3440e7"
+      },
+      {
+        "itemId": "6663fad0af6260095fda2608",
+        "itemType": "TVShow",
+        "_id": "6665345e7afe64aabf344104"
+      },
+      {
+        "itemId": "6663fad0af6260095fda261a",
+        "itemType": "TVShow",
+        "_id": "666534697afe64aabf344115"
+      }
+    ],
+    "id": "666533637afe64aabf344081"
+  }
+]

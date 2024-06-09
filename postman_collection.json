@@ -1,0 +1,81 @@
+{
+  "info": {
+    "_postman_id": "732e1e47-300a-4fce-9dac-ee8b6fa83c46",
+    "name": "MyListFeature",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "69033"
+  },
+  "item": [
+    {
+      "name": "Add Item",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"itemId\": \"6663fad0af6260095fda2604\",\n    \"itemType\": \"TVShow\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:8080/users/6664869e3fd94b857d2a171b/mylist",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["users", "6664869e3fd94b857d2a171b", "mylist"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Items List",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/users/6664869e3fd94b857d2a171b/mylist?limit=5&offset=1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["users", "6664869e3fd94b857d2a171b", "mylist"],
+          "query": [
+            {
+              "key": "limit",
+              "value": "5",
+              "description": "number of items per page"
+            },
+            {
+              "key": "offset",
+              "value": "1",
+              "description": "page number"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Remove Item",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/users/6664869e3fd94b857d2a171b/mylist/6663f5e05fff718e47c93ed3",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": [
+            "users",
+            "6664869e3fd94b857d2a171b",
+            "mylist",
+            "6663f5e05fff718e47c93ed3"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
