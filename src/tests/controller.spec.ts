@@ -86,6 +86,7 @@ describe('addItemToList - test suite', () => {
     (getItemByUserId as jest.Mock).mockResolvedValue(
       MOCK_GET_TV_SHOW_BY_USER_ID
     );
+    (upsertList as jest.Mock).mockResolvedValue(true);
     (updateCache as jest.Mock).mockResolvedValue(true);
   });
 
@@ -135,6 +136,11 @@ describe('addItemToList - test suite', () => {
 
     await addItemToList(req, res);
 
+    expect(getUserById).not.toHaveBeenCalled();
+    expect(getMovieById).not.toHaveBeenCalled();
+    expect(getTVShowById).not.toHaveBeenCalled();
+    expect(upsertList).not.toHaveBeenCalled();
+    expect(updateCache).not.toHaveBeenCalled();
     expect(statusMock).toHaveBeenCalledWith(400);
     expect(jsonMock).toHaveBeenCalledWith({
       message: MOCK_ERR_MSGS.INVALID_ID_MSG,
@@ -146,6 +152,10 @@ describe('addItemToList - test suite', () => {
 
     await addItemToList(req, res);
 
+    expect(getMovieById).not.toHaveBeenCalled();
+    expect(getTVShowById).not.toHaveBeenCalled();
+    expect(upsertList).not.toHaveBeenCalled();
+    expect(updateCache).not.toHaveBeenCalled();
     expect(statusMock).toHaveBeenCalledWith(400);
     expect(jsonMock).toHaveBeenCalledWith({
       message: MOCK_ERR_MSGS.INVALID_USER_MSG,
@@ -157,14 +167,42 @@ describe('addItemToList - test suite', () => {
 
     await addItemToList(req, res);
 
+    expect(isValidObjectId).toHaveBeenCalledWith(MOCK_USER_ID);
+    expect(isValidObjectId).toHaveBeenCalledWith(MOCK_ITEM_ID);
+    expect(getUserById).toHaveBeenCalledWith(MOCK_USER_ID);
+    expect(upsertList).not.toHaveBeenCalled();
+    expect(updateCache).not.toHaveBeenCalled();
     expect(statusMock).toHaveBeenCalledWith(400);
     expect(jsonMock).toHaveBeenCalledWith({
       message: MOCK_ERR_MSGS.INVALID_ITEM_MSG,
     });
   });
 
+  test('should return 400 if item is duplicate', async () => {
+    (upsertList as jest.Mock).mockRejectedValue(
+      new Error(MOCK_ERR_MSGS.DUPLICATE_ITEM_MSG)
+    );
+
+    await addItemToList(req, res);
+
+    expect(isValidObjectId).toHaveBeenCalledWith(MOCK_USER_ID);
+    expect(isValidObjectId).toHaveBeenCalledWith(MOCK_ITEM_ID);
+    expect(getUserById).toHaveBeenCalledWith(MOCK_USER_ID);
+    expect(getTVShowById).toHaveBeenCalledWith(MOCK_ITEM_ID);
+    expect(getMovieById).not.toHaveBeenCalled();
+    expect(upsertList).toHaveBeenCalledWith(MOCK_USER_ID, {
+      itemId: MOCK_ITEM_ID,
+      itemType: MOCK_ITEMS.TVSHOW,
+    });
+    expect(getCache).not.toHaveBeenCalled();
+    expect(statusMock).toHaveBeenCalledWith(400);
+    expect(jsonMock).toHaveBeenCalledWith({
+      message: MOCK_ERR_MSGS.DUPLICATE_ITEM_MSG,
+    });
+  });
+
   test('should return 500 if an error occurs', async () => {
-    (upsertList as jest.Mock).mockRejectedValue(new Error('Test error'));
+    (upsertList as jest.Mock).mockRejectedValue(new Error('error'));
 
     await addItemToList(req, res);
 

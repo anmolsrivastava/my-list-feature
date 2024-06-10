@@ -30,6 +30,7 @@ export const MOCK_ERR_MSGS = {
   SERVER_ERROR_MSG: 'Interval Server Error',
   ITEM_NOT_FOUND_MSG: 'Item not found for user',
   INVALID_ITEM_MSG: 'Item does not exist',
+  DUPLICATE_ITEM_MSG: 'Item already exists for the user',
 };
 export const MOCK_SUCCESS_MSGS = {
   ITEM_REMOVED_MSG: 'Item removed successfully',
