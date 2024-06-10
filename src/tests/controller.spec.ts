@@ -141,7 +141,8 @@ describe('addItemToList - test suite', () => {
     expect(getTVShowById).not.toHaveBeenCalled();
     expect(upsertList).not.toHaveBeenCalled();
     expect(updateCache).not.toHaveBeenCalled();
-    expect(statusMock).toHaveBeenCalledWith(200);
+    //fix test
+    expect(statusMock).toHaveBeenCalledWith(400);
     expect(jsonMock).toHaveBeenCalledWith({
       message: MOCK_ERR_MSGS.INVALID_ID_MSG,
     });
